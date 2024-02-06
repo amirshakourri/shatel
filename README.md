@@ -4,7 +4,7 @@ Shatel Flutter Redesign is an exciting mobile application concept built using th
 
 ## Key Features 🌟
 
-- **Intuitive Navigation:** Explore essential features with ease through streamlined navigation pathways.
+- **Intuitive Navigation:** Easily explore essential features through streamlined navigation pathways.
 - **Elegant Design Language:** Enjoy a visually captivating interface crafted with a clean and modern design language.
 - **Enhanced Functionality:** From account management to service exploration, every aspect of the Shatel experience is optimized for efficiency and user satisfaction.
 - **Responsive Layout:** Experience seamless usability across devices and screen sizes with the platform's responsive design.
@@ -14,17 +14,17 @@ Shatel Flutter Redesign is an exciting mobile application concept built using th
 
 Here are some snapshots showcasing the redesigned platform:
 
-- ![Screenshot 1](screenshots/screenshot1.png)
-- ![Screenshot 2](screenshots/screenshot2.png)
-- ![Screenshot 3](screenshots/screenshot3.png)
+-![Screenshot 1](screenshots/screenshot1.png)
+-![Screenshot 2](screenshots/screenshot2.png)
+-![Screenshot 3](screenshots/screenshot3.png)
 
 ## Installation 🛠️
 
-The Shatel Flutter Redesign application is currently in the design phase and not available for public use. Stay tuned for updates on its development progress.
+The Shatel Flutter Redesign application is currently a design concept and not publicly available. It was created to showcase design skills and as part of a portfolio or resume project. I'd like you to please stay tuned for updates on its development progress.
 
 ## Feedback and Collaboration 🤝
 
-Your feedback and collaboration are invaluable to the success of the Shatel Flutter Redesign project. Whether you have insights, suggestions, or would like to contribute to the design process, we welcome your input and collaboration.
+Your feedback and collaboration are invaluable to the success of the Shatel Flutter Redesign project. Whether you have insights, or suggestions, or would like to contribute to the design process, we welcome your input and collaboration.
 
 ## License 📝
 

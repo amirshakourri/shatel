@@ -14,13 +14,13 @@ Shatel Flutter Redesign is an exciting mobile application concept built using th
 
 Here are some snapshots showcasing the redesigned platform:
 
-- ![Screenshot 1](screenshots/Screenshot_1.png)
-- ![Screenshot 2](screenshots/Screenshot_2.png)
-- ![Screenshot 3](screenshots/Screenshot_3.png)
-- ![Screenshot 4](screenshots/Screenshot_4.png)
-- ![Screenshot 5](screenshots/Screenshot_5.png)
-- ![Screenshot 6](screenshots/Screenshot_6.png)
-- ![Screenshot 7](screenshots/Screenshot_7.png)
+- <img src="screenshots/Screenshot_1.png" alt="Screenshot 1" width="400">
+- <img src="screenshots/Screenshot_2.png" alt="Screenshot 2" width="400">
+- <img src="screenshots/Screenshot_3.png" alt="Screenshot 3" width="400">
+- <img src="screenshots/Screenshot_4.png" alt="Screenshot 4" width="400">
+- <img src="screenshots/Screenshot_5.png" alt="Screenshot 5" width="400">
+- <img src="screenshots/Screenshot_6.png" alt="Screenshot 6" width="400">
+- <img src="screenshots/Screenshot_7.png" alt="Screenshot 7" width="400">
 
 ## Installation 🛠️
 
@@ -33,3 +33,4 @@ Your feedback and collaboration are invaluable to the success of the Shatel Flut
 ## License 📝
 
 This project is licensed under the [MIT License](LICENSE).
+

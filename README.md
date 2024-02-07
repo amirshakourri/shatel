@@ -14,13 +14,15 @@ Shatel Flutter Redesign is an exciting mobile application concept built using th
 
 Here are some snapshots showcasing the redesigned platform:
 
-- <img src="screenshots/Screenshot_1.png" alt="Screenshot 1" width="400">
-- <img src="screenshots/Screenshot_2.png" alt="Screenshot 2" width="400">
-- <img src="screenshots/Screenshot_3.png" alt="Screenshot 3" width="400">
-- <img src="screenshots/Screenshot_4.png" alt="Screenshot 4" width="400">
-- <img src="screenshots/Screenshot_5.png" alt="Screenshot 5" width="400">
-- <img src="screenshots/Screenshot_6.png" alt="Screenshot 6" width="400">
-- <img src="screenshots/Screenshot_7.png" alt="Screenshot 7" width="400">
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <img src="screenshots/Screenshot_1.png" alt="Screenshot 1" width="300">
+  <img src="screenshots/Screenshot_2.png" alt="Screenshot 2" width="300">
+  <img src="screenshots/Screenshot_3.png" alt="Screenshot 3" width="300">
+  <img src="screenshots/Screenshot_4.png" alt="Screenshot 4" width="300">
+  <img src="screenshots/Screenshot_5.png" alt="Screenshot 5" width="300">
+  <img src="screenshots/Screenshot_6.png" alt="Screenshot 6" width="300">
+  <img src="screenshots/Screenshot_7.png" alt="Screenshot 7" width="300">
+</div>
 
 ## Installation 🛠️
 
@@ -33,4 +35,3 @@ Your feedback and collaboration are invaluable to the success of the Shatel Flut
 ## License 📝
 
 This project is licensed under the [MIT License](LICENSE).
-

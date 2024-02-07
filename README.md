@@ -14,9 +14,13 @@ Shatel Flutter Redesign is an exciting mobile application concept built using th
 
 Here are some snapshots showcasing the redesigned platform:
 
-- ![Screenshot 1](screenshots/screenshot1.png)
-- ![Screenshot 2](screenshots/screenshot2.png)
-- ![Screenshot 3](screenshots/screenshot3.png)
+- ![Screenshot 1](screenshots/screenshot_1.png)
+- ![Screenshot 2](screenshots/screenshot_2.png)
+- ![Screenshot 3](screenshots/screenshot_3.png)
+- ![Screenshot 4](screenshots/screenshot_4.png)
+- ![Screenshot 5](screenshots/screenshot_5.png)
+- ![Screenshot 6](screenshots/screenshot_6.png)
+- ![Screenshot 7](screenshots/screenshot_7.png)
 
 ## Installation 🛠️
 
